@@ -1,5 +1,7 @@
-aria2 - The ultra fast download utility
+aria2i - The ultra fast download utility [Improved]
 =======================================
+
+*All credit to the developers of aria2 for doing most of the work!*
 
 Disclaimer
 ----------
